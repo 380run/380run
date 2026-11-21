@@ -6,6 +6,3 @@
 
 ## Sobre
 A 380 RUN é uma iniciativa independente de desenvolvimento de software focada na criação de ferramentas práticas, na exploração de ideias e na entrega de softwares que resolvem problemas reais.
-
-## Projetos
-- [nome-do-projeto](https://github.com/seu-usuario/nome-do-projeto): o que ele faz.
